@@ -1,0 +1,168 @@
+.status {
+    height: 175px;
+    width: 138px;
+    top: 360%;
+    left: 140%;
+    background-color: transparent;
+    position: absolute;
+    font-size: 30px;
+}
+
+#info {
+    width: 200px;
+    padding: 6px;
+    height: 170px;
+    position: absolute;
+    top: 18%;
+}
+
+.healt {
+    background-color: rgba(0, 0, 0, 0.542);
+    position: absolute;
+    width: 60px;
+    height: 30px;
+    text-align: end;
+    color: white;
+    border: 5px solid rgba(0, 0, 0, 0.07);
+    border-radius: 4px;
+    top: 183px;
+    left: -289px;
+}
+
+#imput-healt {
+    position: absolute;
+    left: 30px;
+    font-size: 20px;
+    top: 5px;
+}
+
+#healte {
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    left: 4px;
+    top: 5px;
+}
+
+.stamina {
+    background-color: rgba(0, 0, 0, 0.542);
+    position: absolute;
+    width: 60px;
+    height: 30px;
+    text-align: end;
+    color: white;
+    top: 183px;
+    left: -210px;
+    border-radius: 4px;
+    border: 5px solid rgba(0, 0, 0, 0.07);
+}
+
+#imput-stamina {
+    position: absolute;
+    left: 40px;
+    font-size: 20px;
+    top: 5px;
+}
+
+#staminaa {
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    left: 3px;
+    top: 5px;
+}
+
+.thirst {
+    background-color: rgba(0, 0, 0, 0.542);
+    position: absolute;
+    width: 60px;
+    height: 30px;
+    text-align: end;
+    color: white;
+    top: 183px;
+    border-radius: 4px;
+    border: 5px solid rgba(0, 0, 0, 0.07);
+    left: -130px;
+}
+
+#imput-thirst {
+    position: absolute;
+    left: 37px;
+    font-size: 20px;
+    top: 4px;
+}
+
+#thirste {
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    left: 5px;
+    top: 4px;
+}
+
+.hunger {
+    background-color: rgba(0, 0, 0, 0.542);
+    position: absolute;
+    width: 60px;
+    height: 30px;
+    text-align: end;
+    color: white;
+    top: 183px;
+    left: -50px;
+    border-radius: 4px;
+    border: 5px solid rgba(0, 0, 0, 0.07);
+}
+
+#imput-hunger {
+    position: absolute;
+    left: 33px;
+    top: 4px;
+    font-size: 20px;
+}
+
+#hungere {
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    left: 3px;
+    top: 4px;
+}
+
+.money {
+    position: absolute;
+    width: 200px;
+    left: 1650px;
+    top: 35%;
+    background-color: rgba(0, 0, 0, 0.407);
+    height: 40px;
+    text-align: center;
+    border-radius: 4px;
+    border: 5px solid rgba(0, 0, 0, 0.081);
+}
+
+#money-imput {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+
+#moneyy {
+    position: absolute;
+    left: 0px;
+    top: -3px;
+    width: 43px;
+    height: 43px;
+}
+
+.soldi {
+    font-size: 30px;
+    color: green;
+}
+
+#logoserver {
+    position: relative;
+    width: 300px;
+    height:300px;
+    right: -1600px;
+    top: -190px;
+}
+
